@@ -12,7 +12,8 @@ Throughout the internship, I applied data analytics, machine learning, and busin
 - Scikit-learn
 - Power BI
 - Jupyter Notebook
-##Internship Projects
+  
+## Internship Projects
  Level 1
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
