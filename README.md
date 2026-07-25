@@ -14,16 +14,19 @@ Throughout the internship, I applied data analytics, machine learning, and busin
 - Jupyter Notebook
   
 ## Internship Projects
- Level 1
+ ### Level 1
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
- Level 2
+
+### Level 2
 - Regression Analysis
 - K-Means Clustering
-Level 3
-- Customer Churn Prediction using Machine Learning
-- Customer Churn Dashboard (Power BI)
- Skills Gained
+
+### Level 3
+- Customer Churn Prediction
+- Power BI Dashboard
+
+- ## Skills Gained
 
 - Data Cleaning
 - Data Visualization
